@@ -16,4 +16,4 @@ pillow==10.2.0
 einops
 peft==0.10.0
 protobuf==3.20
-alembic
+alembic # database migration tool
