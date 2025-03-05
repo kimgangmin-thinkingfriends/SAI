@@ -1,0 +1,19 @@
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+python-multipart
+pydantic-settings
+psycopg2
+dependency-injector
+diffusers==0.27.2
+transformers==4.36.2
+opencv-python
+safetensors
+pillow==10.2.0
+einops
+peft==0.10.0
+protobuf==3.20
+alembic
